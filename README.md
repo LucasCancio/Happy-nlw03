@@ -15,7 +15,7 @@ _________
 ### ✨ Sobre o projeto:
 
 <p align="center">
-<img width="600" src="docs/proffy.png">
+<img width="600" src="docs/happy.svg">
 </p>
 
 O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 
