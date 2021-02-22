@@ -37,7 +37,7 @@ _________
 
 ## 💻 Projeto
 
-   <p style="margin-left:5em">🏭 <b>Servidor</b>&nbsp;&nbsp;&nbsp;&nbsp;./server - API REST usando TypeScript, Express e banco de dados SQLite </p><p style="margin-left:5em">🌍 <b>Web</b>&nbsp;&nbsp;&nbsp;&nbsp;./web - Interface web em RectJS e TypeScript </p>
+   <p style="margin-left:5em">🏭 <b>Servidor</b>&nbsp;&nbsp;&nbsp;&nbsp;./server - API REST usando TypeScript, Express e banco de dados SQLite </p><p style="margin-left:5em">🌍 <b>Web</b>&nbsp;&nbsp;&nbsp;&nbsp;./web - Interface web em ReactJS e TypeScript </p>
    <p style="margin-left:5em">📱 <b>Mobile</b>&nbsp;&nbsp;&nbsp;&nbsp;./mobile - Interface mobile em ReactNative, TypeScript e Expo </p>
 
 _________
